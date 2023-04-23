@@ -1,0 +1,8 @@
+It doe's not need "Xammp" server because it is run normally
+and also it is "empnet.sqlite" file so that is not ".sql" file.
+
+
+So, for see and changes the databases we have to use "SQLiteStudio"
+Or "DB Browser(SQLCipher)" Or, "DB Browser(SQLite)".
+
+we can not changes that file in "MyPhpAdmin".
